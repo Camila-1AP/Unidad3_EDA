@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\obj\Debug\Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio12\obj\Debug\Ejercicio12.pdb

@@ -1,0 +1,8 @@
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\obj\Debug\Ejercicio17.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\obj\Debug\Ejercicio17.pdb
+C:\Users\camil\OneDrive\Desktop\Unidad3EDA\Ejercicio17\obj\Debug\Ejercicio17.exe.config
